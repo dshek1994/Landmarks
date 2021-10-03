@@ -13,6 +13,8 @@
 		FB2E0EB32709141A00096BBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EA12709141A00096BBB /* ContentView.swift */; };
 		FB2E0EB42709141A00096BBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB2E0EA22709141A00096BBB /* Assets.xcassets */; };
 		FB2E0EB52709141A00096BBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB2E0EA22709141A00096BBB /* Assets.xcassets */; };
+		FB2E0EBF270933A500096BBB /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EBE270933A500096BBB /* CircleImage.swift */; };
+		FB2E0EC0270933A500096BBB /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2E0EBE270933A500096BBB /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,7 @@
 		FB2E0EA72709141A00096BBB /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB2E0EAD2709141A00096BBB /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB2E0EAF2709141A00096BBB /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		FB2E0EBE270933A500096BBB /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,7 @@
 				FB2E0EA02709141A00096BBB /* LandmarksApp.swift */,
 				FB2E0EA12709141A00096BBB /* ContentView.swift */,
 				FB2E0EA22709141A00096BBB /* Assets.xcassets */,
+				FB2E0EBE270933A500096BBB /* CircleImage.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -178,6 +182,7 @@
 			files = (
 				FB2E0EB22709141A00096BBB /* ContentView.swift in Sources */,
 				FB2E0EB02709141A00096BBB /* LandmarksApp.swift in Sources */,
+				FB2E0EBF270933A500096BBB /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,6 +192,7 @@
 			files = (
 				FB2E0EB32709141A00096BBB /* ContentView.swift in Sources */,
 				FB2E0EB12709141A00096BBB /* LandmarksApp.swift in Sources */,
+				FB2E0EC0270933A500096BBB /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
